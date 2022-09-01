@@ -3,4 +3,4 @@ I like to create things on the internet! Right now, I'm working on a game, Pink 
 > **https://matsukky.com**
 ## GitLab
 
-I'm using sometime github, but i mustly use my GitLab instance : https://gitlab.matsukky.com
+I'm using sometime github, but i mustly use my GitLab instance : https://git.matsukky.com
