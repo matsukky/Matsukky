@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Matsukky 
+# 👋 Hi, I’m Maylody 💛
 I like to create things on the internet! I'm working on a game, The Garden Of Souvenirs ! You can check my work on my different social networks, or learn more about me in my website !
 > **https://matsukky.com**
 ## Self-Hosted GitHub Alternative
